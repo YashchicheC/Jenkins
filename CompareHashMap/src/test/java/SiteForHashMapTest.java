@@ -25,10 +25,10 @@ public class SiteForHashMapTest extends BaseClass
         Assert.assertEquals(expectedAtributes, actualAttributes);
 
     }
-    @Test
+   /* @Test
     public void testAllure()
     {
         Assert.assertEquals("Lb]d", ResumePage.proverkaGorodaDlyaMap);
-    }
+    }*/
 
 }
